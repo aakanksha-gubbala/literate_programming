@@ -1,0 +1,30 @@
+body {
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-size: 1em;
+}
+
+a:hover {
+  color: red;
+}
+
+blockquote {
+    border: 1px solid #999;
+    padding-left: 10px;
+    margin: 2px;
+}
+
+.shadedbox {
+  border: 1px solid #888;
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 2x;
+}

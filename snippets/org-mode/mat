@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mat
+# key: mat
+# --
+\begin{bmatrix}
+1 & 2 & 3
+\end{bmatrix}

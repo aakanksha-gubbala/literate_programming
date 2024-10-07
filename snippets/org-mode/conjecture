@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: conjecture
+# key: conjecture
+# --
+#+BEGIN_QUOTE
+**Conjecture:** $0
+#+END_QUOTE

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: assert
+# key: assert
+# --
+#+BEGIN_QUOTE
+**Assertion:** $0
+#+END_QUOTE
